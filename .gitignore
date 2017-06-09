@@ -1,0 +1,9 @@
+# file types
+*.iml
+
+# folders
+**/.gradle/
+**/bin/
+**/build/
+**/.settings/
+**/.idea/
